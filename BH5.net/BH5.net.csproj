@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="favicon.ico" />
     <Content Include="images\Boston1.jpg" />
     <Content Include="images\Cupertino1.JPG" />
     <Content Include="images\Destin1.jpg" />
